@@ -1,6 +1,19 @@
 # learn_riverpod
 
-A new Flutter project.
+Pequeno estudo sobre o componente Riverpod
+
+## Tutorial
+
+[Flutter Map](https://www.youtube.com/watch?v=7Cp1GlmHTGE&t=15s)
+
+## Stack
+
+- flutter sdk: '>=3.2.6 <4.0.0'
+- flutter_riverpod: ^2.4.10
+
+## Screenshots
+
+<img src="screen.gif" width="300px" />
 
 ## Getting Started
 
