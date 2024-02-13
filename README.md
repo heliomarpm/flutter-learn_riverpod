@@ -5,6 +5,26 @@ Pequeno estudo sobre o componente Riverpod
 ## Tutorial
 
 [Flutter Map](https://www.youtube.com/watch?v=7Cp1GlmHTGE&t=15s)
+[Exercises](https://youtu.be/qZ21x_ugJjA)
+
+        //! Riverpod set up
+        ProviderScope
+
+        //! Easy level
+        State Provider
+
+        ConsumerWidget
+        ref.watch(riverpod)
+        ref.read(riverppod.notifier).state
+
+        //! Hard level (with model)
+        ChangeNotifierProvider
+        ChangeNotifier
+        notifyListeners
+
+        ConsumerWidget
+        ref.watch(riverpod).name
+        ref.read(riverpod).changeName(newValue)
 
 ## Stack
 
